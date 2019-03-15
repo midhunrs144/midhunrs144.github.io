@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Srisakdi');
+
+body{
+	background: black;
+}
+.main{
+	background: pink;
+	
+	width: 70%;
+	margin-left: 200px;
+	
+}
+.left{
+	background: #243B49;
+	height: 1280px;
+	width: 35%;
+	float: left;
+
+}
+.right{
+	background: #FFFFFF;
+	height: 1200px;
+	width: 65%;
+	float: left;
+	padding-top: 80px;
+}
+.photo{
+	border-radius: 50%;
+	margin-top: 70px;
+	margin-left: 90px;
+}
+.leftsideheadingsdiv{
+	border: 2px;
+	margin-left: 50px;
+	margin-top: 50px;
+	margin-bottom: 25px; 
+	width: 70%; 
+	height: 45px; 
+	border-style: solid; 
+	border-color: white; 
+	background: #243B49
+}
+td{
+	color: white;
+
+}
+li{
+	color: white;
+}
+h1{
+	color: #243B49;
+	text-align: center;
+	font-size: 40px;
+	
+}
+h2{
+	color: #243B49;
+	text-align: center;
+	font-size: 28px;
+	font-weight: lighter;
+}
+.rightdivheading{
+	border: 2px; 
+	width: 50%; 
+	height: 40px; 
+	border-style: solid; 
+	border-color: #243B49; 
+	background: white;
+	padding-bottom: 10px;
+	display: inline-block;
+
+	}
+h3{
+	color: #243B49;
+	text-align: center;
+	font-weight: bolder;
+}
+.para{
+	color: #243B49;
+	padding-left: 50px;
+	padding-right: 50px;
+	font-family: 'Srisakdi', cursive;
+	font-weight: bold;
+}
+.paraeducation{
+	color: #243B49;
+	padding-left: 50px;
+	padding-right: 50px;
+	font-weight: bold;
+	margin-left: 10%;
+}
+.headingwork{
+	color: #243B49;
+	padding-left: 30px;
+	padding-right: 50px;
+	font-weight: bold;
+	margin-left: 7%;
+}
+.parawork{
+	color: #243B49;
+	padding-left: 50px;
+	padding-right: 50px;
+	margin-left: 3%;
+	font-family: 'Srisakdi', cursive;
+	font-weight: bold;
+}
+h4{
+	margin-top: 30px;
+}
+.leftsideheadingsdiv:hover{
+	background-color: #42b3f4;
+	margin-left: 80px;
+	opacity: 1;
+  transition: 0.3s;
+}
+.rightdivheading:hover{
+	background-color: #42b3f4;
+	margin-left: 80px;
+	opacity: 1;
+  transition: 0.3s;
+  
+}
